@@ -13,7 +13,7 @@ body {
 }
 
 p {
-    background-color: white;
+    background-color: azure;
     transition: all 0.3s;
 }
 p:hover{
