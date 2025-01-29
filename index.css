@@ -13,5 +13,6 @@ body {
 }
 
 p {
-    background-color: azure;
+    background-color: gold;
+    padding: 20px;
 }
