@@ -13,6 +13,13 @@ body {
 }
 
 p {
+    background-color: azure;
+    transition: all 0.3s;
     background-color: gold;
     padding: 20px;
+}
+
+p:hover {
+    opacity: 0.5;
+
 }
