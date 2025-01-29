@@ -1,25 +1,25 @@
 h1 {
-    color: blueviolet;
-    text-align: center;
+  color: blueviolet;
+  text-align: center;
 }
 
 h2 {
-    text-align: center;
-    color: brown;
+  text-align: center;
+  color: brown;
 }
 
 body {
-    background-color: antiquewhite;
+  background-color: antiquewhite;
 }
 
 p {
-    background-color: azure;
-    transition: all 0.3s;
-    background-color: gold;
-    padding: 20px;
+  background-color: azure;
+  transition: all 0.3s;
+  background-color: gold;
+  padding: 20px;
+  color: blue;
 }
 
 p:hover {
-    opacity: 0.5;
-
+  opacity: 0.5;
 }
