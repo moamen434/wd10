@@ -15,6 +15,7 @@ body {
 p {
     background-color: azure;
     transition: all 0.3s;
+    color: blue;
 }
 p:hover{
     opacity: 0.5;
