@@ -1,6 +1,17 @@
-h1{
+h1 {
     color: blueviolet;
+    text-align: center;
 }
-body{
+
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+body {
     background-color: antiquewhite;
+}
+
+p {
+    background-color: white;
 }
